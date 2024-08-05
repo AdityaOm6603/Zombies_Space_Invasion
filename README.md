@@ -43,7 +43,7 @@ To run the game, you need to have Python and Pygame installed. Follow these step
 
 3. **Run the game**:
     ```sh
-    python main.py
+    python Game.py
     ```
 
 ## How to Play
