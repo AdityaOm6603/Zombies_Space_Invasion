@@ -10,7 +10,6 @@ Welcome to the Zombie-Space-Invasion game! This is a 2D space shooter game devel
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
-- [Credits](#credits)
 
 ## Introduction
 
