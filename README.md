@@ -55,15 +55,15 @@ To run the game, you need to have Python and Pygame installed. Follow these step
 
 ## Screenshots
 
-Start Screen[Screenshot 2024-08-05 185620](https://github.com/user-attachments/assets/50c38584-9bd0-4338-a990-e9b712d85f8c)
+![Start Screen]![Screenshot 2024-08-05 185620](https://github.com/user-attachments/assets/50c38584-9bd0-4338-a990-e9b712d85f8c)
 
 *Start Screen with instructions and Start Game button.*
 
-Game Screen[Screenshot 2024-08-05 185649](https://github.com/user-attachments/assets/31f36a2e-015e-4010-a629-d1993ac6cdeb)
+![Game Screen]![Screenshot 2024-08-05 185649](https://github.com/user-attachments/assets/31f36a2e-015e-4010-a629-d1993ac6cdeb)
 
 *Gameplay with player spaceship, enemies, and bullets.*
 
-Game Over Screen[Screenshot 2024-08-05 185713](https://github.com/user-attachments/assets/615626e3-d3fe-469e-916c-6f0542201fe3)
+![Game Over Screen]![Screenshot 2024-08-05 185713](https://github.com/user-attachments/assets/615626e3-d3fe-469e-916c-6f0542201fe3)
 
 *Game Over screen with Restart button.*
 
