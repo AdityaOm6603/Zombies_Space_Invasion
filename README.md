@@ -74,8 +74,9 @@ To run the game, you need to have Python and Pygame installed. Follow these step
 - **High Scores**: Implement a high score tracking system.
 - **Enhanced Graphics**: Improve graphics and animations for a better visual experience.
 
-- **Developer**: Your Name
-
 Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 Enjoy the game!
+
+**Developer**: Aditya Ranjan Sahu
+
